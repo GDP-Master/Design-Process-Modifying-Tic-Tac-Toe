@@ -10,6 +10,8 @@ The classic game Tic-Tac-Toe is a ***solved problem*** and it rapidly becomes un
 
 In this assignment you will be practicing the ***iterative*** process that is at the core of most design work to test out your ideas for improvements to Tic-Tac-Toe.
 
+<!-- Don't edit links here, change them in _data/assignment.yml instead, -->
+
 [slides]: <{{site.data.assignment.slides}}>
 [template]: <{{site.data.assignment.template}}>
 
