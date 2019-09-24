@@ -2,11 +2,7 @@
 layout: tabbed-assignment
 ---
 
-
-
 ## Overview
-
-
 
 <img src="assets/tic-tac-toe.svg" width="300px" align="right">
 
@@ -15,7 +11,7 @@ The classic game Tic-Tac-Toe is a ***solved problem*** and it rapidly becomes un
 In this assignment you will be practicing the ***iterative*** process that is at the core of most design work to test out your ideas for improvements to Tic-Tac-Toe.
 
 [slides]: <{{site.data.assignment.slides}}>
-[template]: <https://docs.google.com/document/d/1y_arThQnls5t8mO0lYdUx9dvyQ5qvOsmXzMaxIGe3wc/edit?usp=sharing>
+[template]: <{{site.data.assignment.template}}>
 
 ## Goals
 * Understand that small changes to game mechanics can have a large impact on the system of a game.
