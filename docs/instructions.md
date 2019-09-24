@@ -36,7 +36,7 @@ Then, try out the game with "naive" players. How does it work? What needs to be 
 
 Decide what to change and repeat.
 
-<!-- Don't edit link here, change _data/assignment.yml instead, -->
+<!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [slides]: <{{site.data.assignment.slides}}>
 [template]: <{{site.data.assignment.template}}>
