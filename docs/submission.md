@@ -11,6 +11,8 @@ layout: tabbed-assignment
 1. Your **reflection**, on [this template][template], submitted through Canvas.
 1. A **link in your reflection** to the Google Doc with tnstructions for playing your improved version. You can use [these instructions for "Classic" Tic-Tac-Toe][sample-instructions] as a starting point.
 
+**Note:** each member of the group should submit an _individual_ reflection. The instructions can, and should, be shared amoung all of the members of your team. They link in your reflection should point to the same document.
+
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [sample-instructions]: <{{site.data.assignment.sample-instructions}}>
