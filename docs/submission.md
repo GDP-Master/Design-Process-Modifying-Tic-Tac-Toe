@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Submission Instructions
 
-1. **Notebook** &em; Use a sticky note to bookmark the page where your notes on improving Tic-Tac-Toe begin. Before submitting check that your notes:
+1. **Notebook** &emdash; Use a sticky note to bookmark the page where your notes on improving Tic-Tac-Toe begin. Before submitting check that your notes:
    - Are dated.
    - Have a heading: something like "Modifying Tic-Tac-Toe" or "Tic-Tac-Toe Brainstorm" would work.
    - Reflect an effort to come up with ideas for ways to modify Tic-Tac-Toe.  
