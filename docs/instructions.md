@@ -36,6 +36,10 @@ Then, try out the game with "naive" players. How does it work? What needs to be 
 
 Decide what to change and repeat.
 
+### Finally
+
+Using the 
+
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [slides]: <{{site.data.assignment.slides}}>
