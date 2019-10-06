@@ -28,7 +28,9 @@ Iterate if the test reveals problems with your mechanic.
 ### Make a Prototype
 
 Once you have a new version of Tic-Tac-Toe,
-use the [sample instructions][] as a model, and write up the instructions for the game. We will use these when we playtest. **Be sure that your instructions include: the names of the designers, the block of your class, and the title of your game.**
+use the [sample instructions][sample-instructions] as a model, and write up the instructions for the game. We will use these when we playtest. **Be sure that your instructions include: the names of the designers, the block of your class, and the title of your game.**
+
+Be sure to share the instructions with all of the members of your team.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
