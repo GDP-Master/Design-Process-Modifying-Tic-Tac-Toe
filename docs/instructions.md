@@ -4,8 +4,6 @@ layout: tabbed-assignment
 
 # Instructions
 
-## The Process
-
 ### Define the Problem
 
 As we discuss the good and bad points of Tic-Tac-Toe, make some notes. The bad points could be the seeds of ideas about how to fix the game, and the good points will help you to keep the character of the game intact.
