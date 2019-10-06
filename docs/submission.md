@@ -13,6 +13,8 @@ layout: tabbed-assignment
 
 **Note:** each member of the group should submit an _individual_ reflection. The instructions can, and should, be shared amoung all of the members of your team. They link in your reflection should point to the same document.
 
+{% include submission-boilerplate.html %}
+
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [sample-instructions]: <{{site.data.assignment.sample-instructions}}>
