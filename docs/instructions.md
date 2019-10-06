@@ -18,27 +18,19 @@ Collect as many ideas as you can for possible changes to the rules of Tic-Tac-To
 
 Don't stress over this, but don't just go with your first idea. New ideas will come to you unexpectedly, when they come, write them down.
 
+### Do Some Quick Tests
+
+Pick a new mechanic that seems promising and add it to the game, then test it out with your partner:
+* Can you describe how it works (write a rule)?
+* Does it seem to work?
+* Does it seem like an improvement?
+
+Iterate if the test reveals problems with your mechanic.
+
 ### Make a Prototype
 
-Pick a new mechanic that seems promising and add it to the game. Try it with your partner to see if it works and seems like a viable change.
-
-### Playtest
-
-Before "getting serious" about testing, make some notes about what should be different about the game. For example:
-- The person who goes first doesn't control the game.
-- The game lasts longer.
-- Equally matched players don't always draw.
-- Etc.
-
-Then, try out the game with "naive" players. How does it work? What needs to be changed or tuned?
-
-### Iterate
-
-Decide what to change and repeat.
-
-### Finally
-
-Using the 
+Once you have a new version of Tic-Tac-Toe,
+use the [sample instructions][] as a model, and write up the instructions for the game. We will use these when we playtest. **Be sure that your instructions include: the names of the designers, the block of your class, and the title of your game.**
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
