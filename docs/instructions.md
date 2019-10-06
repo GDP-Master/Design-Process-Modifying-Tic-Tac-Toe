@@ -42,5 +42,6 @@ Using the
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
+[sample-instructions]: <{{site.data.assignment.sample-instructions}}>
 [slides]: <{{site.data.assignment.slides}}>
 [template]: <{{site.data.assignment.template}}>
