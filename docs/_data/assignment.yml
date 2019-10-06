@@ -3,5 +3,6 @@
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabes
 outcome:
+sample-instructions: https://docs.google.com/document/d/1Q_J97E1DzXnWcGOMd27EcAi_qqsDBWy8-imPEThK0pU/edit?usp=sharing
 slides:
 template: https://docs.google.com/document/d/1y_arThQnls5t8mO0lYdUx9dvyQ5qvOsmXzMaxIGe3wc/edit?usp=sharing
